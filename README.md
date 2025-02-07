@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohabop_" target="blank"><img src="https://img.shields.io/twitter/follow/mohabop_?logo=twitter&style=for-the-badge" alt="mohabop_" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **Mohab.Alraddadi@gamil.com**
 
